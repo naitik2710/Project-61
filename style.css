@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+}
+
+#img1 {
+    height: 300px;
+}
+
+#p1 {
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    color: blue;
+}
+
+#inspiration {
+    background: linear-gradient(#7734eb 0%, #36ebc3 100%)
+}
+
+#JKR:hover {
+    transform: scale(1.2)
+}
+
+#JKR {
+    height: 300px;
+    width: 300px;
+}
+
+#sec2 {
+    background: linear-gradient(#51d0db 0%, #132f70 100%);
+    padding: 30px;
+}
+
+#sec1 {
+    background: linear-gradient(#51d0db 0%, #132f70 100%);
+    height: 600px;
+}
+
+h2 {
+    text-decoration: underline;
+    color: white;
+}
+
+.list {
+    margin-top: -450px;
+    list-style: none;
+}
+
+.list1 {
+    float: left;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+#favbooks {
+    background: linear-gradient(#15cfcb 0%, #1498cc 100%);
+    padding: 10px;
+}
+
+#Geronimo,
+#Harry {
+    height: 350px;
+    width: 500px;
+    border-style: solid;
+    border-width: 10px;
+}
+
+#contact {
+    background: linear-gradient(#15cfcb 0%, #1498cc 100%);
+    padding: 10px;
+}
+#location {
+    background: linear-gradient(#2fd45b 0%, #30bfd9 100%);
+    padding: 10px;
+}
